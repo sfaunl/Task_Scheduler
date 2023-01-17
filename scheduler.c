@@ -9,7 +9,7 @@
 #include <stdlib.h>
 
 #include "scheduler.h"
-#include "/list/linkedlist.h"
+#include "list/linkedlist.h"
 
 // TODO: Rate Monotonic Scheduling, Rate Monotonic Analysis
 
